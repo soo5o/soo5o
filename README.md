@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Study 🌱
+## ✨✨ Study 🌱 ✨✨
 <a href="https://fierce-truck-ecc.notion.site/Computer-383dbe0e3ec34f9bb50127a8bc0c4c14?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://blog.naver.com/jungsk20" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
 
