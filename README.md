@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF) 
 ![firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+##
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jungsk20)](https://solved.ac/jungsk20)
