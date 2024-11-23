@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ##
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jungsk20)](https://solved.ac/jungsk20)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungsk20)](https://solved.ac/jungsk20})
